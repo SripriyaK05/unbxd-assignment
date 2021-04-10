@@ -10,7 +10,8 @@ res = requests.get(url)
 data = res.json()
 number_of_products=data["response"]["numberOfProducts"]
 rows= 500
-
+# fdgfghjklm,cfhjbnm,fhgvjbn
+# jgvjgvujgffjugtvffvf
 print(number_of_products)
 print("----------------")
 
